@@ -26,6 +26,7 @@ Before using this script, make sure you have the following prerequisites install
 5. Replace <Path version 1> and <Path version 2> with the paths of the directories you want to compare.
 6. The script will display the results in the terminal, including modified, created, and deleted files.
 ## Example
+### One of the use cases of this script is to compare two firmware versions
 python3 script_diff.py /path/to/directory/old /path/to/directory/new
 
 ## Acknowledgments
